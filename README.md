@@ -4,6 +4,8 @@ Projeto realizado com o auxílio de uma aula disponibilizada no Youtube.
 ### Preview do Projeto
 ![Preview do Projeto](.github/preview.png)
 
+[Clique aqui para acessar](https://marqueba.github.io/google-homepage/)
+
 ## Tecnologias Utilizadas
 - ``HTML``
 - ``CSS``
